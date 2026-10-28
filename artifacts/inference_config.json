@@ -1,0 +1,8 @@
+{
+  "beam_width": 5,
+  "early_score_bias": 1.0,
+  "memory_min_support": 1000000000,
+  "memory_min_confidence": 1.1,
+  "validation_survival_auc": 2.251136139102944,
+  "validation_move_accuracy": 0.22616239841888736
+}
