@@ -1,0 +1,12 @@
+{
+  "num_test_games": 17888,
+  "raw_test_games": 17888,
+  "excluded_test_games": 0,
+  "move_accuracy": 0.22718120182351223,
+  "mean_correct_prefix": 2.2590004472271916,
+  "survival_auc": 2.2590004472271907,
+  "max_len": 60,
+  "beam_width": 5,
+  "memory_min_support": 1000000000,
+  "memory_min_confidence": 1.1
+}
