@@ -1,0 +1,14 @@
+{
+  "run_name": "transformer_5x5_v1",
+  "max_len": 60,
+  "vocab_size": 6228,
+  "d_model": 160,
+  "num_heads": 5,
+  "ff_dim": 480,
+  "num_encoder_blocks": 5,
+  "num_decoder_blocks": 5,
+  "dropout_rate": 0.15,
+  "batch_size": 128,
+  "seed": 42,
+  "trainable_parameters": 4118549
+}
