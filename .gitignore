@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+*.weights.h5
+*.h5
+*.pkl
+*.csv.tmp
+checkpoints/
+backups/
